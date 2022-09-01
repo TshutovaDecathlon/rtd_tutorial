@@ -17,8 +17,9 @@ Contents
 --------
 
 .. toctree::
-   :hidden:
    :maxdepth: 2
+   :hidden:
+   
 
    overview
    usage
